@@ -46,7 +46,7 @@ The dataset contains 5000 images of sugarbeets and weeds rendered procedurally u
 | class_id_mapping.yaml
 | asset_catalog.yaml
 ```
-The dataset can be downloaded at the following [download link](https://drive.google.com/drive/folders/1-h5F9aat0Y0VmGvgLx13C8A5ZMWCYljJ?usp=drive_link).
+The dataset can be downloaded at the following [download link](https://drive.google.com/drive/folders/1-h5F9aat0Y0VmGvgLx13C8A5ZMWCYljJ?usp=sharing).
 
 ## License
 
